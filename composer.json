@@ -1,0 +1,8 @@
+{
+  "name": "jdleonard/membership_manager_recipe",
+  "type": "drupal-recipe",
+  "description": "Demo recipe that provides a Membership Manager role.",
+  "require": {
+    
+  }
+}
