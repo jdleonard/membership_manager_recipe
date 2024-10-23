@@ -1,0 +1,7 @@
+uuid: dd2d13b7-49f8-44d1-ad54-833b8cbc9063
+langcode: en
+status: true
+id: membership_manager
+label: 'Membership Manager'
+weight: -7
+is_admin: null

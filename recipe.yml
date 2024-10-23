@@ -1,0 +1,5 @@
+name: 'Membership Manager Role Recipe'
+description: 'A Membership Manager Role.'
+type: 'Membership'
+install:
+  - user
